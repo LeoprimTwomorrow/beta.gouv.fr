@@ -1,11 +1,13 @@
 ---
 fullname: léo primard
-role: Directeur Artistique / Graphic Designer
 domaine: Design
+role: Directeur Artistique / Graphic Designer
 link: https://www.twomorrow-project.com
 missions:
   - start: 2024-01-24
-    end: 2024-06-30
+    end: 2024-09-30
     status: independent
 memberType: beta
+competences:
+  - Communication
 ---
